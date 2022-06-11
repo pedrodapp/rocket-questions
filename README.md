@@ -40,4 +40,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ---
 
-Feito com ♥ durante o NLW Discover da Rocketseat
+Feito com 💜 durante o NLW Discover da Rocketseat.
